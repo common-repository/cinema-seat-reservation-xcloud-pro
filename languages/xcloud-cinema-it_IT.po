@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cinema Seat Reservation - xCloud.pro\n"
+"POT-Creation-Date: 2017-11-22 18:31+0100\n"
+"PO-Revision-Date: 2017-11-22 18:31+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: xcloud-cinema-seat-reservation.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: xcloud-cinema-seat-reservation.php:47
+msgid "Menu Xcloud Cinema"
+msgstr "Menu Xcloud Cinema"
+
+#: xcloud-cinema-seat-reservation.php:48
+msgid "XCLOUD Cinema"
+msgstr "XCLOUD Cinema"
+
+#: xcloud-cinema-seat-reservation.php:57
+msgid "Cinema Seat Reservation"
+msgstr "Cinema Seat Reservation"
+
+#: xcloud-cinema-seat-reservation.php:58
+msgid ""
+"1. Copy and Paste the Code for The Code Form from your APP > Preview/Install"
+msgstr ""
+"1. Copia e incolla il codice dal Form presente sulla web-app > Anteprima/"
+"Install"
+
+#: xcloud-cinema-seat-reservation.php:59
+msgid "2. Use shortcode in your Page/Post content to display The Booking Form:"
+msgstr ""
+"2. Utilizza lo shortcode nella pagina/post in cui intendi mostrare il form "
+"di prenotazione:"
+
+#: xcloud-cinema-seat-reservation.php:70
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: xcloud-cinema-seat-reservation.php:71
+msgid "Code"
+msgstr "Codice"
+
+#. Plugin Name of the plugin/theme
+msgid "Cinema Seat Reservation - xCloud.pro"
+msgstr "Cinema Seat Reservation - xCloud.pro"
+
+#. Plugin URI of the plugin/theme
+msgid "https://xcloud.pro/prodotto/cinema-seat-reservation/"
+msgstr "https://xcloud.pro/prodotto/cinema-seat-reservation/"
+
+#. Description of the plugin/theme
+msgid ""
+"Integration for WordPress of Cinema Seat Reservation by xCloud.pro - "
+"Professional System for Reservation Seat and Sale Tickets. The complete tool "
+"for your cinema, theater, event, show. Please use shortcode [xcloud-cinema] "
+"in your Page content."
+msgstr ""
+"Sistema di prenotazione posti per sale cinematografiche e similari "
+"(monosala, multisala), teatri, eventi. Possibilità di abilitare pagamenti on-"
+"line, gestire prenotazioni, venite biglietti (ticket), personalizzare eventi "
+"e spettacoli, ecc… Questo plugin permette l'integrazione su wordpress della "
+"piattaforma di prenotazione attivabile su xCloud.pro"
+
+#. Author of the plugin/theme
+msgid "xCloud.pro"
+msgstr "xCloud.pro"
+
+#. Author URI of the plugin/theme
+msgid "https://www.xcloud.pro"
+msgstr "https://www.xcloud.pro"
+
+#~ msgid ""
+#~ "2. Use shortcode [xcloud-cinema] in your Page/Post content to display The "
+#~ "Booking Form."
+#~ msgstr ""
+#~ "2. Utilizza lo shortcode [xcloud-cinema] nella pagina/post dove intendi "
+#~ "mostrare il form di prenotazione"
